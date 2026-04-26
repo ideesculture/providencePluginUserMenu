@@ -1,5 +1,7 @@
 # providencePluginUserMenu
 
+2026 : this repository has been merged with our global providencePlugins repository. Please use this new repo instead.
+
 ![icon](https://raw.githubusercontent.com/ideesculture/providencePluginUserMenu/master/documentation/icon.png)
 
 This plugin is a simple plugin for Providence, allowing to easily logout and access to preferences from a menu. It aims to be a replacement for the user links (logout and preferences) in the footer of Providence.
